@@ -1,0 +1,167 @@
+{
+  "data":{
+    "support_topics":[
+      {
+        "heading":"------------------------------------------",
+        "subheading":"2020",
+        "content":[
+          {
+            "Enero":"",
+            "Febrero":"",
+            "Marzo":"",
+            "Abril":"",
+            "Mayo":"",
+            "Junio":"",
+            "Julio":"",
+            "Agosto":"",
+            "Septiembre":"",
+            "Octubre":"Literal-d-2020-Octubre-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos.pdf",
+            "Noviembre":"Literal-d-2020-Noviembre-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos.pdf",
+            "Diciembre":"Literal-d-2020-Diciembre-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos.pdf"
+          }
+        ]        
+      },
+      {
+        "heading":"Ley Orgánica de Transparencia y Acceso a la Información Pública",
+        "subheading":"2021",
+        "content":[
+          {
+            "Enero":"Literal-d-2021-Enero-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos.pdf",
+            "Febrero":"",
+            "Marzo":"",
+            "Abril":"",
+            "Mayo":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos-MES-DE-MAYO.pdf",
+            "Junio":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos-MES-DE-JUNIO-PDF.pdf",
+            "Julio":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos-MES-DE-JULIO.pdf",
+            "Agosto":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos-MES-DE-AGOSTO.pdf",
+            "Septiembre":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos-MES-DE-SEPTIEMBRE.pdf",
+            "Octubre":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos-MES-DE-OCTUBRE.pdf",
+            "Noviembre":"",
+            "Diciembre":""
+          }
+        ]                
+      },
+      {
+        "heading":"------------------------------------------",
+        "subheading":"2022",
+        "content":[
+          {
+            "Enero":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos - MES DE ENERO 2022.xls",
+            "Febrero":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos - MES DE FEBRERO 2022.xls",
+            "Marzo":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos - MES DE MARZO 2022.xls",
+            "Abril":"Literal_d-Servicios_que_ofrece_y_las_formas_de_acceder_a_ellos - MES DE ABRIL 2022.xls",
+            "Mayo":"",
+            "Junio":"",
+            "Julio":"",
+            "Agosto":"",
+            "Septiembre":"",
+            "Octubre":"",
+            "Noviembre":"",
+            "Diciembre":""
+          }
+        ]       
+      },
+      {
+        "heading":"------------------------------------------",
+        "subheading":"2023",
+        "content":[
+          {
+            "Enero":"",
+            "Febrero":"",
+            "Marzo":"",
+            "Abril":"",
+            "Mayo":"",
+            "Junio":"",
+            "Julio":"",
+            "Agosto":"",
+            "Septiembre":"",
+            "Octubre":"",
+            "Noviembre":"",
+            "Diciembre":""
+          }
+        ]       
+      },
+      {
+        "heading":"------------------------------------------",
+        "subheading":"2024",
+        "content":[
+          {
+            "Enero":"",
+            "Febrero":"",
+            "Marzo":"",
+            "Abril":"",
+            "Mayo":"",
+            "Junio":"",
+            "Julio":"",
+            "Agosto":"",
+            "Septiembre":"",
+            "Octubre":"",
+            "Noviembre":"",
+            "Diciembre":""
+          }
+        ]       
+      },
+      {
+        "heading":"------------------------------------------",
+        "subheading":"2025",
+        "content":[
+          {
+            "Enero":"",
+            "Febrero":"",
+            "Marzo":"",
+            "Abril":"",
+            "Mayo":"",
+            "Junio":"",
+            "Julio":"",
+            "Agosto":"",
+            "Septiembre":"",
+            "Octubre":"",
+            "Noviembre":"",
+            "Diciembre":""
+          }
+        ]       
+      }
+    ],
+    "supports":[
+      {
+        "heading":"Can't find what you need?",
+        "content":"Potenti elit lectus augue eget iaculis vitae etiam, ullamcorper etiam bibendum ad feugiat magna accumsan dolor, nibh molestie cras hac ac ad massa",
+        "image_path":"./assets/img/ticket.png",
+        "button_content":"Submit Ticket"
+      },
+      {
+        "heading":"Ask the community",
+        "content":"Potenti elit lectus augue eget iaculis vitae etiam, ullamcorper etiam bibendum ad feugiat magna accumsan dolor, nibh molestie cras hac ac ad massa",
+        "image_path":"./assets/img/community.png",
+        "button_content":"Go To community"
+      }
+    ],
+    "support_questions":[
+      {
+        "question":"¿Cuáles son los requisitos para ingresar al curso de aspirante a bombero voluntario?",
+        "answer":"El curso está dirigido a hombres y mujeres de 18 a 35 años de edad. Deben de tener condición física. Los horarios son de 19:00 a 22:00 de lunes a viernes y los sábados de 08:30 a 15:00. Contáctenos a nuestro numero para mayor información.",
+        "collapse_id":"one"
+      },
+      {
+        "question":"¿Cómo puedo solicitar ayuda en caso de emergencia?",
+        "answer":"Debe llamar al 911 para que se coordine la asistencia requerida de acuerdo al caso.",
+        "collapse_id":"two"
+      },
+      {
+        "question":"¿Qué debo hacer para que los bomberos vayan a las instituciones educativas o barrios para brindar charlas de prevención?",
+        "answer":"Se redacta un oficio dirigido al coronel designado, Primer Jefe del Benemérito Cuerpo de Bomberos de Simòn Bolivar, en el que indique que requiere una charla o visita de los bomberos dirigido a niños de la institución o a la comunidad. Debe de ser específico con la cantidad de niños y edades.",
+        "collapse_id":"three"
+      },
+      {
+        "question":"Si deseo solicitar la participación de los bomberos en ferias, empresas, entrevistas, etc. ¿qué debo hacer?",
+        "answer":"Se redacta un oficio dirigido al coronel en cargo, Primer Jefe del Benemérito Cuerpo de Bomberos de Simòn Bolivar.",
+        "collapse_id":"four"
+      },
+      {
+        "question":"¿Cuáles son los pasos a seguir para obtener el permiso de funcionamiento en línea?",
+        "answer":"Se recomienda acercarse a nuestra lugar de trabajo para mas detalle, y una capacitaciòn de lo que se requiere.",
+        "collapse_id":"five"
+      }
+    ]
+  }
+}

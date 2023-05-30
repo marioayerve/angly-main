@@ -1,0 +1,28 @@
+{
+   "data":[
+      {
+        "image_path":"./assets/img/1-project.JPEG",
+        "type":"home"
+      },
+      {
+        "image_path":"./assets/img/IMG_2722.JPEG",
+        "type":"home"
+      },
+      {
+        "image_path":"./assets/img/IMG_2799.jpg",
+        "type":"home"
+      },
+      {
+        "image_path":"./assets/img/IMG_2798.jpg",
+        "type":"home"
+      },
+      {
+        "image_path":"./assets/img/IMG_3441.JPEG",
+        "type":"home"
+      },
+      {
+        "image_path":"./assets/img/IMG_3666.JPEG",
+        "type":"home"
+      }
+   ]
+}

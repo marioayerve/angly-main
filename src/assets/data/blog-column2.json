@@ -1,0 +1,60 @@
+{
+	"data":[
+      {
+         "image_path": "assets/img/vehiculo1.JPEG",
+         "heading": "Camion de Bomberos",
+         "date":1500163200,
+         "user_name":"Simòn Bolivar",
+         "user_icon":"fa-user-circle-o",
+         "content": "Medio de transportes listos para la acciòn!",
+         "read_more_url": "javascript:void(0)",
+			"read_more_bgcolor":"btn-primary"
+      },
+      {
+         "image_path": "assets/img/vehiculo2.jpeg",
+         "heading": "5 Tips For App Development",
+         "date":1500163200,
+         "user_name":"Simòn Bolivar",
+         "user_icon":"fa-user-circle-o",
+         "content": "Equipado para todo terreno.",
+         "read_more_url": "javascript:void(0)",
+			"read_more_bgcolor":"btn-warning"
+      },
+      {
+         "image_path": "assets/img/vehiculo3.JPEG",
+         "heading": "Listos para salvar vidas.",
+         "date":1500163200,
+         "user_name":"Simòn Bolivar",
+         "user_icon":"fa-user-circle-o",
+         "content": "Trabajamos 24/7 si la situación lo amerita.",
+			"read_more_bgcolor":"btn-success"
+      },
+      {
+         "image_path": "assets/img/vehiculo4.JPEG",
+         "heading": "Siempre en marcha",
+         "date":1500163200,
+         "user_name":"Simòn Bolivar",
+         "user_icon":"fa-user-circle-o",
+         "content": "Transporte seguro a los hospitales mas cercanos.",
+			"read_more_bgcolor":"bg-yellow"
+      },
+      {
+         "image_path": "assets/img/vehiculo5.jpg",
+         "heading": "Ingreso de Paciente",
+         "date":1500163200,
+         "user_name":"Simòn Bolivar",
+         "user_icon":"fa-user-circle-o",
+         "content": "Ayudamos al ingreso y resguardo.",
+			"read_more_bgcolor":"btn-danger"
+      },
+      {
+         "image_path": "assets/img/vehiculo6.jpeg",
+         "heading": "Esperamos diagnóstico médico.",
+         "date":1500163200,
+         "user_name":"Simòn Bolivar",
+         "user_icon":"fa-user-circle-o",
+         "content": "Velamos por tu seguridad.",
+			"read_more_bgcolor":"btn-dark"
+      }
+	]
+}

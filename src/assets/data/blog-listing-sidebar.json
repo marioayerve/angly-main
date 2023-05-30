@@ -1,0 +1,40 @@
+{
+	"data":[
+      {
+         "image_path": "assets/img/respaldo_1.jpeg",
+         "heading": "Prefectura del Guayas",
+         "date":1500163200,
+         "user_name":"Acuerdos / Seguridad",
+         "user_icon":"fa-user-circle-o",
+         "content": "La prefectura del Guayas confía en nuestro trabajo, y nos brinda su apoyo para poder salvaguardar a todos los que requieran nuestro servicios.",
+			"read_more_bgcolor":""
+      },
+      {
+         "image_path": "assets/img/respaldo_2.jpeg",
+         "heading": "Policía Nacional del Ecuador",
+         "date":1500163200,
+         "user_name":"Servir y Proteger",
+         "user_icon":"fa-user-circle-o",
+         "content": "La policía nacional del Ecuador siempre atentos a cualquier colaboración, día y noche al socorro de los que la necesiten.",
+			"read_more_bgcolor":""
+      },
+      {
+         "image_path": "assets/img/respaldo_3.jpeg",
+         "heading": "Comisaría Municipal",
+         "date":1500163200,
+         "user_name":"Control / Gestión",
+         "user_icon":"fa-user-circle-o",
+         "content": "Brindando su apoyo para corroborar que todo se encuentre en ley, bajo normas establecidas.",
+			"read_more_bgcolor":""
+      },
+      {
+         "image_path": "assets/img/respaldo_4.jpeg",
+         "heading": "Centro de Operaciones de Emergencias",
+         "date":1500163200,
+         "user_name":"Comunicación",
+         "user_icon":"fa-user-circle-o",
+         "content": "Gracias a la comunidad en general que se reune con cada una de las personas que tratamos de hacer que nuestro cantón sea mas seguro y libre de desgracias.",
+			"read_more_bgcolor":""
+      }
+	]
+}

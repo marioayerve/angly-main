@@ -1,0 +1,150 @@
+<div class="page-main-container">
+	<!-- Service grid -->
+	<div class="service section-gap">
+		<div class="container">
+			<div class="section-title-wrapper">
+			  <div class="row">
+					<div class="col-sm-12 col-md-10 mx-auto text-center">
+						<h2>Bomberos del Cantón Simón Bolívar</h2>
+						<p class="mb-0">A demás de las emergencias nos enfocamos en la prevención y brindar capacitación tanto a 
+							Unidades Educativas, Empresa Privadas, Empresas Públicas y a la Ciudadanía en general. 
+							Siendo dictadas por personal Rentado y Voluntario que está altamente capacitado en temas de 
+							Atención Pre hospitalaria, Combate contra incendios, Uso y manejo de extintores, 
+							búsqueda y rescate, manejo de cuerdas y varios temas más. </p>
+					</div>
+			  </div>
+			</div>
+			<div class="row" angly-serviceGrid [serviceGridContent]="services"></div>
+		</div>
+	</div>
+	<!-- Video section -->
+	<!--<div class="chk-video-section section-gap bg-light">
+		<div class="container">
+		  <div class="row" angly-chkVideo [videoContent]="videoContent">
+		  </div>
+		</div>
+	</div>-->
+	<!-- Featured section -->
+	<!--<div class="mob-feature">
+		<div class="section-gap">
+			<div class="container">
+				<div class="section-title-wrapper">
+				  <div class="row">
+						<div class="col-sm-12 col-md-10 mx-auto text-center text-white">
+							<h2 class="text-white"> Best UI Framework for your angular app </h2>
+							<p class="mb-0">Framework developed with angular 13, angular CLI and bootstrap 4 makes it unique in its category and a completed solution for your business.</p>
+						</div>
+				  </div>
+				</div>
+				<div class="row" angly-mobileFeatured [mobileFeatured]="mobileFeatured"></div>
+			</div>
+		</div>
+	</div>-->
+	<!-- Projects grid-->
+	<div class="Gallery-grid section-gap">
+		<div class="container">
+			<div class="section-title-wrapper">
+				<div class="row">
+					<div class="col-sm-12 col-md-10 mx-auto text-center">
+						<h2> Nuestro Grandioso Equipo </h2>
+						<p class="mb-0">
+							La plantilla de personal de bomberos rentados y voluntarios, está conformada por 19 bomberos rentados y 
+							42 bomberos voluntarios, los mismos que se encuentran al mando de la comandante Mayor de Bomberos Catalina Naranjo.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="row" angly-gallaryGrid gridClass="col-sm-12 col-md-4 mb-4" [gallaryGridContent]="projectGallary"></div>
+		</div>
+	</div>
+	<!-- Posts grid -->
+	<div class="post-section bg-light section-gap">
+		<div class="container">
+			<div class="section-title-wrapper">
+				<div class="row">
+					 <div class="col-sm-12 col-md-10 mx-auto text-center">
+						<h2> Ultimos Eventos </h2>
+					 </div>
+				</div>
+			</div>
+			<div class="card-deck">
+				<div class="row" angly-postGrid [postGridContent]="posts"></div>
+			</div>
+		</div>
+	</div>
+	<!-- Team grid -->
+	<div class="team section-gap">
+		<div class="container">
+			<div class="section-title-wrapper">
+				<div class="row">
+					<div class="col-sm-12 col-md-10 mx-auto text-center">
+						<h2> Reconocimientos </h2>
+						<p class="mb-0">Los reconocimientos a nuestro grupo de bomberos es un orgullo y nos motiva a seguir trabajando para nuestro Cantón.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row" angly-teamGrid [teamGridContent]="team" ></div>
+		</div>
+	</div>
+	<!-- Pricing grid -->
+	<!--<div class="pricing-grid">
+		<div class="container">
+			<div class="section-title-wrapper">
+				<div class="row">
+					<div class="col-sm-12 col-md-10 mx-auto text-center">
+						<h2 class="text-white"> Plans and Pricing  </h2>
+					</div>
+				</div>
+			</div>
+		  <div class="row">
+				<div class="col-sm-12 col-md-4 col-lg-4 mb-4" *ngFor="let content of pricingContent">
+					<div class="pricing-card border-0 pt-5 px-4 pb-4 border-rad">
+						<span class="mb-4 {{content?.bg_color}} p-2 px-3 btn-pill text-center d-inline-block"> {{content?.home_title}} </span>
+						<h2 class="font-4x px-2 fw-200 mb-4"><sup class="font-xs"> {{content?.currency}} </sup>
+						{{content?.price}} <sub class="font-sm"> </sub></h2>
+						<ul class="list-unstyled pricing-list mb-5">
+							<li class="mb-3" *ngFor="let pricingList of content?.pricing_list">
+								<i class="fa {{pricingList?.icon}} mr-2"></i>
+								{{ pricingList?.value }}
+							</li>
+						</ul>
+						<a routerLink="/{{content.url}}" class="btn btn-outline-secondary btn-pill btn-lg submit-btn btn-block">Buy Plan</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>-->
+	<!-- Testimonial -->
+	<div class="testimonial-section section-gap">
+		<div class="">
+			<div class="container">
+				<div angly-testimonial [testimonialContent]="testimonial"></div>
+			</div>
+		</div>
+	</div>
+	<!-- Subscribe section -->
+	<!--<div angly-subscribe [subscribeFormClasses]="subscribeFormClasses"></div>-->
+	<!-- Contact information section -->
+	<div class="contact-section section-gap">
+		<div class="container">
+			<div class="section-title-wrapper">
+				<div class="row">
+					<div class="col-sm-12 col-md-10 mx-auto text-center">
+						<h2>Información para contacto  </h2>
+					</div>
+				</div>
+			</div>
+			<div class="row" angly-homeContact [contact]="contact"></div>
+		</div>
+	</div>
+	<!-- Send message section -->
+	<!--<div class="send-msg section-gap style-form">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-10 col-lg-7 mx-auto">
+						<div angly-sendMessage></div>
+					</div>
+				</div>
+			</div>
+	</div>-->
+</div>

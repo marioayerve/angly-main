@@ -1,0 +1,74 @@
+<div class="rtl-layout" (click)="addToggleClass()"><a href="javascript:void(0);">RTL</a></div>
+<div #scrollContainer class="over-scroll" (scroll)="onScroll($event)" [ngClass]="{'fixed-header' : fixedHeaderClass}">
+<header angly-header></header>
+
+<!-- If home page so show this content -->
+<div *ngIf="router?.url == '/home'" class="site-banner">
+    <div class="banner-wrapper primary-layer">
+        <div class="banner-inner">
+            <div class="banner-content container text-center container-full-width">
+                <h2 class="display-3 fw-200 mb-4 text-white text-capitalize">
+                    <div class="d-title">
+                        <b>Nuestra Misión: 
+                        <span>Servir</span>
+                        <span>Ayudar</span>
+                    </b>
+                    </div>
+                </h2>
+                <!--<h4 class="text-white">Build something incredible!</h4>
+                <a class="btn btn-lg btn-outline-light mr-3 mb-3 px-4 py-2 btn-chk inverse" target="_blank" href="javascript:void(0);">
+                     Purchase
+                </a>
+                <a class="btn btn-lg btn-outline-light mb-3 px-4 py-2 btn-chk" href="javascript:void(0);">
+                     Know More
+                </a>-->
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- All page title get -->
+<div class="section-heading section-gap bg-light" *ngIf="router?.url != '/home' && router?.url != '/blog-sidebar' && router?.url != '/blog-no-sidebar' && router?.url != '/login' && router?.url != '/sign-up' && router?.url != '/thank-you' && router?.url != '/not-found' && router?.url != '/maintenance' && router?.url != '/blog-detail' ">
+    <div class="text-center">
+        <div class="container">
+            <h1 class="mb-3">{{headerTitle}}</h1>
+            <p class="lead">{{headerSubTitle}}</p>
+        </div>
+    </div>
+</div>
+
+<!-- Header of blog sidebar and blog no sidebar page -->
+<div class="card text-white text-center border-0" *ngIf="router?.url == '/blog-sidebar' || router?.url == '/blog-no-sidebar' || router?.url == '/blog-detail' ">
+   <div class="blog-detail-thumb" style="background-image: url('assets/img/blog-detail.JPG')"></div>
+   <div class="card-img-overlay black-tp-layer  pos-center py-6">
+      <div class="center-holder">
+         <div class="container">
+            <div class="row">
+               <div class="col-sm-12 col-md-8 mx-auto">
+                  <h5 class="text-info mb-4 d-xs-none"> Más información </h5>
+                  <h2 class="mb-4 text-white"> {{featuredPost?.heading}}</h2>
+                  <div class="blog-meta mb-3 d-xs-none">
+                     <a href="javascript:void(0);" class="mr-3">
+                        <i class="fa {{featuredPost?.user_icon}} mr-2 text-white font-lg"></i>
+                        <span class="text-white font-sm"> {{featuredPost?.user_name}}</span>
+                     </a>
+                     <a href="javascript:void(0);">
+                        <i class="fa fa-calendar-o mr-2 text-white font-lg"></i>
+                        <span class="text-white font-sm">2023</span>
+                     </a>
+                  </div>
+                  <p class="card-text d-xs-none"> {{featuredPost?.content}}</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="angly-base-container">
+  <div class="inner-container">
+		<router-outlet (activate)="onActivate($event, scrollContainer)"></router-outlet>
+  </div>
+</div>
+<!-- <footer angly-footer></footer> -->
+<footer angly-footer2></footer>
+</div>

@@ -1,0 +1,15 @@
+{
+   "data":[
+      {
+         "image_path":"assets/img/mision.jpeg",
+         "heading":"Misión Institucional",
+         "content":"Ofrecer un servicio integral de seguridad, encaminado a prevenir, salvaguardar la vida y bienes de la comunidad; con acciones oportunas y eficientes en la lucha contra el fuego, rescate y salvamento; atender emergencias producto de los fenómenos naturales y/o antrópicos, con la preparación técnica de su personal y la participación de la ciudadanía del cantón Simón Bolivar."
+      },
+      {
+         "image_path":"assets/img/vision.jpg",
+         "heading":"Visión Institucional",
+         "content":"Constituirse en una Entidad Bomberil capacitada profesionalmente, con funciones que tengan una preparación acorde con las exigencias del mundo moderno y espíritu altruista, al fin de alcanzar los niveles óptimos de calidad y excelencia, para la tranquilidad y satisfacción de la comunidad del cantón Simón Bolivar."
+      }
+
+   ]
+}

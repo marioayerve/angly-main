@@ -1,0 +1,48 @@
+<!-- Latest Blog Section -->
+<div class="blog-wrapper section-gap">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 col-md-6 mb-3" *ngFor="let post2Column of blogColumn2">
+				<div class="blog-wrap mb-4">
+					<div class="overlay-wrap mb-4">
+						<img [src]="post2Column?.image_path" alt="blog-img" width="572" height="391" class="img-fluid w-100 border-rad" />
+						<div class="card-img-overlay primary-tp-layer pos-center text-center">
+							<div class="center-holder">
+								<a routerLink="/blog-detail" class="ih-fade-right"><i class="fa fa-arrow-right fa-3x fa-inverse"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="blog-content text-center">
+						<h4 class="mb-3"><a routerLink="/blog-detail">{{post2Column?.heading}}</a></h4>
+						<div class="blog-meta mb-1">
+							<a href="javascript:void(0);" class="mr-3 text-muted">
+								<i class="fa text-primary {{post2Column?.user_icon}} mr-2 font-lg"></i>
+								<span class="font-sm"> {{post2Column?.user_name}}</span>
+							</a>
+							<!--<a href="javascript:void(0);" class="text-muted">
+								<i class="fa text-primary fa-calendar-o mr-2 font-lg"></i>
+								<span class="font-sm">{{post2Column?.date*1000 | date }}</span>
+							</a>-->
+						</div>
+						<div class="blog-categories mb-3 font-sm">
+							<p class="mb-0 d-inline-block mr-2">Brindamos:</p>
+							<div class="categories-tag d-inline-block">
+								<a href="javascript:void(0);">Seguridad</a>
+								<a href="javascript:void(0);">Atención Medica</a>
+								<a href="javascript:void(0);">Primeros auxilios</a>
+							</div>
+						</div>
+						<p class="mb-3">{{post2Column?.content}}</p>
+						<!--<a routerLink="/blog-detail" class="{{post2Column?.read_more_bgcolor}}  btn btn-sm"> READ MORE </a>-->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Load More -->
+<div class="load-more px-4 pb-5 text-center">
+	<!--<div class="container">
+		<a href="javascript:void(0);" class="text-muted font-lg"> <i class="fa fa-refresh mr-3 fa-spin"></i>LOAD MORE </a>
+	</div>-->
+</div>

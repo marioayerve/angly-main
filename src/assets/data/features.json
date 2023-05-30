@@ -1,0 +1,109 @@
+{
+  "data":{
+    "feature_details":{
+      "image_path":"./assets/img/emergencia_1.jpg",
+      "heading":" Siempre al servicio de nuestra ciudadania.",
+      "sub_heading":" Brindando la ayuda médica necesaria y los primeros auxilios.",
+      "list":[
+        {"icon":"fa fa-check text-green", "content": "Atención 24/7."},
+        {"icon":"fa fa-check text-green", "content": "Resguardo y protección."},
+        {"icon":"fa fa-check text-green", "content": "Atención inmediata."},
+        {"icon":"fa fa-check text-green", "content": "Combate contra siniestros."}
+      ]
+    },
+    "features_work":[
+      {
+        "image_path":"./assets/img/emergencia_2.jpg",
+        "heading":"Recreando hechos",
+        "content":"Una actividad principal nuestra, siempre sera el escuchar a las personas afectadas. Y entender su versión de los hechos.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_3.jpg",
+        "heading":"Primeros auxilios",
+        "content":"Los primeros auxilios para poder estabilizar al afectado, previo a llevarlo a los centros médicos.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_4.jpg",
+        "heading":"Atención Médica",
+        "content":"En caso que se requiera atención médica especializada, nuestro equipo esta capacitado para atenderlo y llevarlo lo mas pronto a la clínica mas cercana.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_5.jpg",
+        "heading":"Equipo de Ambulancia",
+        "content":"Contamos con equipo de ambulancia para poder atender de manera efectiva a los afectados, brindando un servicio digno y completo.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_6.jpg",
+        "heading":"Traslado hospital",
+        "content":"El traslado se realiza con todas las precauciones debidas, bajo las normas de seguridad y protocolos establecidos.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_7.JPEG",
+        "heading":"Equipo Bomberos",
+        "content":"Equipo de bombero altamente capacitados y entrenados para afrontar cualquier situación con el fin de salvaguardar la vida de los involucrados.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_8.jpg",
+        "heading":"Control incendios",
+        "content":"Controlar y apagar incendios de manera efectiva, bajo los protocolos establecidos.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_9.jpg",
+        "heading":"Accidentes de Transito",
+        "content":"Atención a accidentes de transitos, el afectado tendra atención inmediata.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_10.jpg",
+        "heading":"Atención contra ataques",
+        "content":"Atendemos a personas que han sufrido ataques de terceros (robos, agresiones, violaciones) para brindarle un apoyo humano a favor de su salud, sea fisica o mental.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_11.JPEG",
+        "heading":"Control contra fuego",
+        "content":"Manejar el fuego dentro de un incendio no es tarea facil, pero nuestro equipo se encuentra entrenado para que el incendio no se propague a otros lugares.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_12.JPEG",
+        "heading":"Apagando Incendios",
+        "content":"Al apagar el incendio, el area se debe controlar y revisar para prevenir futuros siniestros.",
+        "url":""
+      },
+      {
+        "image_path":"./assets/img/emergencia_13.jpeg",
+        "heading":"Monitoreo 24/7",
+        "content":"Contamos con monitoreo las 24 horas, de esa forma mantenemos seguro a los ciudadanos del cantón Simon Bolivar.",
+        "url":""
+      }
+    ],
+    "feature_testimonial":[
+      {
+        "image_path":"",
+        "name":"",
+        "type":"",
+        "content":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "image_path":"",
+        "name":"",
+        "type":"",
+        "content":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "image_path":"",
+        "name":"",
+        "type":"",
+        "content":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+   "data":[
+      {
+        "icon":{
+          "name":"ion-ios-bulb",
+          "color":"text-warning"
+        },
+        "title":" Ayudar ",
+        "content":"Estamos dispuestos para socorrer y ayudar a nuestra comunidad y/o comunidades vecinas que requieran de nuestra capacidad y fortalezas como equipo.",
+        "link":"javascript:void(0)",
+        "btnBgClass": "btn-outline-warning"
+      },
+      {
+        "icon":{
+          "name":"ion-ios-infinite",
+          "color":"text-primary"
+        },
+        "title":" Proteger ",
+        "content":"Nuestro objetivo es preservar la seguridad de nuestro prójimo, brindando seguridad y resguardo frente a acontecimientos de alto riesgo.",
+        "link":"javascript:void(0)",
+        "btnBgClass": "btn-outline-primary"
+      },
+      {
+        "icon":{
+          "name":"ion-ios-flash",
+          "color":"text-info"
+        },
+        "title":" Atencion 24/7 ",
+        "content":"Nuestro compromiso es 24/7, socorremos ante cualquier llamado de emergencia y estaremos presente lo mas pronto posible.",
+        "link":"javascript:void(0)",
+        "btnBgClass": "btn-outline-info"
+      }
+   ]
+}

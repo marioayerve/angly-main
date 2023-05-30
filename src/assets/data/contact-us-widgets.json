@@ -1,0 +1,23 @@
+{
+	"data":[
+		{
+			"value":"(593) 960-569989",
+			"heading":"Phone",
+			"img":"fa fa-phone",
+			"title":"Call Us"
+		},
+
+		{
+			"value":"secretariadebomberoscsb@gmail.com",
+			"heading":"Mail",
+			"img":"fa fa-envelope-o",
+			"title":"Send Us Mail"
+		},
+		{
+			"value":"Cuerpo de Bomberos del Canton Simon Bolivar, XGX8+4CG, Simón Bolívar",
+			"heading":"Address",
+			"img":"fa fa-location-arrow",
+			"title":"Address"
+		} 
+	]
+}

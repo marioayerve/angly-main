@@ -1,0 +1,39 @@
+{
+  "data":{
+    "business_hours":[
+      {
+         "status":1,
+         "value":"Monday – Sunday: 0:01am to 23:59pm"
+      },
+      {
+         "status":0,
+         "value":"Saturday: 9am to 17 pm"
+      },
+      {
+         "status":0,
+         "value":"Sunday: day off"
+      }
+    ],
+    "phone":[
+      {
+         "status":1,
+         "value":"+593 960 569989"
+      },
+      {
+         "status":0,
+         "value":"+593 960 569989"
+      }
+    ],
+    "email":[
+      {
+         "status":1,
+         "value":"secretariadebomberoscsb@gmail.com"
+      },
+      {
+         "status":0,
+         "value":"secretariadebomberoscsb@gmail.com"
+      }
+    ],
+    "location": "Cuerpo de Bomberos del Canton Simon Bolivar, XGX8+4CG, Simón Bolívar"
+    }
+}

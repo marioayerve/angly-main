@@ -1,0 +1,26 @@
+{
+   "data":[
+      {
+        "image_path":"./assets/img/OPPRINCIPAL.jpeg",
+        "title":" Operativos",
+        "content":"El regulamiento y la concienciación hacia las personas que conforman el cantón de Simón Bolivar es de esencial importancia para mantener un cantón seguro, para esto se realizan distintos operativos en cada parte del sector, con el fin de mejorar y crear un mejor cantón para todos.",
+        "user_icon":"fa-user-circle-o",
+        "user_name":"Admin"
+      },
+      {
+        "image_path":"./assets/img/EVPRINCIPAL.jpeg",
+        "title":" Eventos",
+        "content":"Los eventos permiten acercarnos mas hacia las personas que conformamos el cantón Simón Bolivar, de igual manera ellos pueden conocer a cada una de las personas que conformamos el cuerpo de bomberos, los protocolos y el actuar de cada uno de nosotros.",
+        "user_icon":"fa-user-circle-o",
+        "user_name":"Admin"
+        
+      },
+      {
+        "image_path":"./assets/img/CAPPRINCIPAL.jpeg",
+        "title":" Capacitaciones",
+        "content":"Las capacitaciones son parte fundamental del trabajo del cuerpo de bomberos, brindar el conocimiento de como actuar ante siniestros o riesgos a las personas del Cantón Simón Bolivar. Esto permite crear personas seguras y fuertes, para de esta forma prevenir desgracias y fortalecer el espiritu.",
+        "user_icon":"fa-user-circle-o",
+        "user_name":"Admin"
+      }
+   ]
+}
